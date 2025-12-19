@@ -10,3 +10,7 @@
 # Homework 2: 3D Hand Keypoints Regression
 
 Регрессия 3D координат (x, y, z) 21 ключевой точки руки на датасете FreiHAND.
+
+# Homework 3: Conditional GAN на MNIST
+
+Реализована и обучена условная генеративно-состязательная сеть (Conditional GAN) для генерации изображений цифр из датасета MNIST по заданному числу.
